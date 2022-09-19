@@ -1,0 +1,13 @@
+/* 03_community.css */
+/* 아래에 코드를 작성해 주세요. */
+img {
+    max-width: 100%;
+  }
+
+  .fixed {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 15px;
+  }

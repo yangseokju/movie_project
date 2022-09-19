@@ -1,0 +1,19 @@
+/* 01_nav_footer.css */
+/* 아래에 코드를 작성해 주세요. */
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+img {
+    max-width: 100%;
+  }
+
+  .fixed {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 15px;
+  }
